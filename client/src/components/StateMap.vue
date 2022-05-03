@@ -89,6 +89,9 @@ export default {
 
 #map-container{
   height: 30rem;
+  border: grey solid 3px;
+  box-shadow: black 1px 1px;
+  margin-bottom: 3rem;
 }
 
 </style>
