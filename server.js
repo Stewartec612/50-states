@@ -8,7 +8,7 @@ let path = require('path')
 
 let app = express()
 
-vueAppPath = path.join(__dirname, 'client','dist')
+let vueAppPath = path.join(__dirname, 'client','dist')
 app.use(express.static(vueAppPath))
 
 app.use(express.json())

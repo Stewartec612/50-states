@@ -47,9 +47,9 @@ export default {
 
 <style>
 #all-visited-message{
-  color: #66de7e ;
+  color: cornflowerblue;
   font-weight: bold;
-  text-shadow: #2a5733 2px 1px;
+  text-shadow: grey 1px 1px;
 
 }
 
